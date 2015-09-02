@@ -1,0 +1,8 @@
+{
+  "name": "ionut/infusionsoft-isdk",
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  }
+}
